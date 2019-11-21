@@ -1,0 +1,21 @@
+#body{
+    color: cornsilk;
+    background-color: blue;
+    font-size: 20px;
+}
+.div1{
+    background-color: cyan;
+   margin-top: 25%;
+   border:2px solid black;
+   width:40%;
+   height:200px ;
+   margin-left: 28%;
+   text-align: center;
+
+}
+#quen{
+    text-align: center;
+}
+.div2{
+    text-align: center;
+}
